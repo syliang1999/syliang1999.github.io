@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Excelsior."
+title                    : ""Excelsior.""
 title_separator          : "-"
 name                     : &name "Siyuan Liang"
 description              : &description "Current PhD student, Department of Computer Science and Engineering, The Chinese University of Hong Kong
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://syliang1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  selfie.jpg
+teaser                   : selfie.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
