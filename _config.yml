@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""Excelsior.""
+title                    : "\"Excelsior.\""
 title_separator          : "-"
 name                     : &name "Siyuan Liang"
 description              : &description "Current PhD student working on EDA"
