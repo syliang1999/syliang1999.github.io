@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Siyuan Liang"
-  avatar           : "selfie.png"
+  avatar           : "selfie.jpg"
   bio              : "Current PhD student, Department of Computer Science and Engineering, The Chinese University of Hong Kong"
-  location         : "HKSAR, China"
+  location         : "Hong Kong SAR, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "syliang1999@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
