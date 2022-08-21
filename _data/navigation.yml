@@ -1,14 +1,14 @@
 # main links links
 main:
   - title: "News"
-    url: /-portfolio/    
+    url: /_portfolio/    
 
   - title: "Publications"
-    url: /-publications/
+    url: /_publications/
 
   - title: "Teaching"
-    url: /-teaching/    
+    url: /_teaching/    
     
   - title: "CV"
-    url: /-cv/
+    url: /_cv/
     
