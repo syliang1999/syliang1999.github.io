@@ -46,7 +46,7 @@ Publications (In chronological order)
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-page.html %}
   {% endfor %}</ul>
   
 Service and leadership
