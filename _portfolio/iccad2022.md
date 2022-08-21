@@ -1,5 +1,5 @@
 ---
-title: "The CoMUX paper is acceptted by ICCAD"
+title: "The CoMUX paper is acceptted by ICCAD 2022"
 excerpt: "2022-8-15, Thanks to the hard work of co-authors, the CoMUX paper is finally accepted by ICCAD this year!<br/><img src='/images/iccad.png'>"
 collection: portfolio
 ---
