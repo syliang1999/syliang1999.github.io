@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Start the PhD career at The Chinese University of Hong Kong"
+excerpt: "2022-8-1, Start the new journey as a PhD student at CUHK.<br/><img src='/images/cuhk.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Officially joined CUHK and started my PhD career. New journey, new challenge, keep striving, excelsior!
