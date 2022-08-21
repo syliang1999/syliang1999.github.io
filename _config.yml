@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Excelsior."
 title_separator          : "-"
 name                     : &name "Siyuan Liang"
-description              : &description "Current PhD student working on EDA"
+description              : &description "Current Ph.D student working on EDA"
 url                      : https://syliang1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "syliang1999.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siyuan Liang"
   avatar           : "selfie.jpg"
-  bio              : "Current PhD student, Department of Computer Science and Engineering, The Chinese University of Hong Kong"
+  bio              : "Current Ph.D student, Department of Computer Science and Engineering, The Chinese University of Hong Kong"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
