@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 Officially joined CUHK and started my PhD career. New journey, new challenge, keep striving, excelsior!
+<br/><img src='/images/cuhk.png'>
