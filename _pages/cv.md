@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Honorary Graduate, Qian Xuesen College, Xi'an Jiaotong University, 2022
+* B.E. in Electrical Engineering & Automation (XJTU Academic Elite Program), Xi'an Jiaotong University, 2022
+* Ph.D in Computer Engineering, The Chinese University of Hong Kong, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Assistant Hardware Engineer
+  * Loten Semiconductor Co., Ltd.
+  * Duties included: Testing and calibrating samples, managing laboratory samples, arranging cargo delivery
+  * Supervisor: Yuan Gao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Assistant Software Engineer
+  * Xi'an Action Electronics Co., Ltd
+  * Duties included: Developing power control simulation software for PV arrays
+  * Supervisor: Xiaoqing Bai 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding (Python, C)
+* MCU Development (FPGA, C51, Arduino, Node MCU)
+* PCB Design (Altium Designer)
+* Engineering Software (MATLAB, Simulink, ANSYS, Feko)
+* Office Software (Word, Excel, Powerpoint, Visio)
+* Miscellaneous (Kart racing, Chinese Traditional Archery, Rowing, Tennis, Basketball, Swimming, Guitar, Video Clip, Photography)
 
 Publications
 ======
@@ -42,11 +42,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -56,4 +51,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* More than 300 hours of social volunteer service.
+* CEO of Rhea Tech in technology entrepreneurship competitions during 2020-2022.
+* Moniter of class Electrical 81 (Elite Class) during 2018-2022.
+
