@@ -33,7 +33,7 @@ Skills
 * MCU Development (FPGA, C51, Arduino, Node MCU)
 * PCB Design (Altium Designer)
 * Engineering Software (MATLAB, Simulink, ANSYS, Feko)
-* Office Software (Word, Excel, Powerpoint, Visio)
+* Office Software (LaTEX, Markdown, Word, Excel, Powerpoint, Visio)
 * Miscellaneous (Kart racing, Chinese Traditional Archery, Rowing, Tennis, Basketball, Swimming, Guitar, Video Clip, Photography)
 
 Publications
