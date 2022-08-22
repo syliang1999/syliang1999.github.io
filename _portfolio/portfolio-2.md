@@ -1,5 +1,5 @@
 ---
-title: "Graduation from Xi'an Jiaotong University"
+title: "Graduate from Xi'an Jiaotong University"
 excerpt: "2022-7-2, A photo with the department head at the degree awarding site. <br/><img src='/images/grad.png'>"
 collection: portfolio
 ---
