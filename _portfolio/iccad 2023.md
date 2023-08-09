@@ -1,9 +1,9 @@
 ---
-title: "The CoMUX paper is accepted by ICCAD 2022"
-excerpt: "2022-8-15, Thanks to the hard work of co-authors, the CoMUX paper is finally accepted by ICCAD this year!<br/><img src='/images/iccad.png'>"
+title: "The ARMM paper is accepted by ICCAD 2023"
+excerpt: "2023-8-9, really good news, the ARMM paper is formally accepted by ICCAD this year!<br/><img src='/images/iccad.png'>"
 collection: portfolio
 ---
 
-Hard work pays off! Really honored and thrilled that our novel microfluidic control multiplexer design CoMUX, which is control-resource-saving, area-saving and robust is able to be introduced to colleagues around the world!
+Thanks to the hard work of co-authors, the ARMM paper, which presents the first adaptive reliability model of flow-based microfluidic biochips and its graph-transformer-based implementation, has been accepted to ICCAD 2023. With the help of this tool, designers are able to have objective, timely and accurate feedback on the reliabilities of their designs, so that more reliable designs can be derived accordingly. We will try the best to develop the online version ARMM and provide solid support for microfluidic developers, please stay tuned!
 <br/><img src='/images/iccad.png'>
 
