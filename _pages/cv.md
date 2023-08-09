@@ -46,7 +46,7 @@ Publications
 Teaching
 ======
   <ol reversed>{% for post in site.teaching reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
 Service and leadership
