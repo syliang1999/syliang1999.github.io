@@ -38,14 +38,14 @@ Skills
 
 Publications (In chronological order)
 ======
-  <ol>{% for post in site.publications %}
+  <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
   
