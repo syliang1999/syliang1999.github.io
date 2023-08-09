@@ -36,18 +36,18 @@ Skills
 * Office Software (LaTEX, Markdown, Word, Excel, Powerpoint, Visio)
 * Miscellaneous (Kart racing, Chinese Traditional Archery, Rowing, Tennis, Basketball, Swimming, Guitar, Video Clip, Photography)
 
-Publications (In chronological order)
+Publications
 ======
-  <ol>{% for post in site.publications reversed %}
+  <ol reversed>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ol reversed>{% for post in site.teaching reversed %}
     {% include archive-single.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Service and leadership
 ======
