@@ -20,7 +20,7 @@ If you have any questions or suggestions, please feel free to contact me via E-m
 
 It's really nice to meet you, wish you have a good day!
 
-\n
+
 
 <body>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3hYg96CqA8tHVFDAUu79fnP_Kxf-pWJg6j4naqdR5S0&cl=ffffff&w=a"></script>
