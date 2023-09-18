@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* Coding (Python, C)
+* Coding (Python, C, Lua)
 * MCU Development (FPGA, C51, Arduino, Node MCU)
 * PCB Design (Altium Designer)
 * Engineering Software (MATLAB, Simulink, ANSYS, Feko)
