@@ -23,5 +23,5 @@ It's really nice to meet you, wish you have a good day!
 
 
 <body>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=3hYg96CqA8tHVFDAUu79fnP_Kxf-pWJg6j4naqdR5S0'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=3hYg96CqA8tHVFDAUu79fnP_Kxf-pWJg6j4naqdR5S0'></script>
 </body>
