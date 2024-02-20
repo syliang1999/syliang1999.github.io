@@ -16,7 +16,7 @@ I joined Xi'an Jiaotong University in 2018, majoring in Electrical Engineering a
 
 I am currently a Ph.D student co-supervised by <a href="https://tsungyiho.github.io">Prof. Tsung-Yi Ho</a> and <a href="https://www.ce.cit.tum.de/en/eda/persons/tsun-ming-tseng">Prof. Tsun-Ming Tseng</a> (from TUM). My study interests include Electronic Design Automation (EDA), Microfluidics and Machine Learning (ML). I will keep updating my academic news and publications in the corresponding pages. Besides researching, I am also responsible for some TA works, which are shown in the Teaching page. More details about me are shown in the CV page, please check it if you are interested.
 
-If you have any questions or suggestions, please feel free to contact me via E-mail, I will try my best to reply timely.
+Please feel free to contact me via E-mail if you have any questions or suggestions, I will try the best to reply timely.
 
 It's really nice to meet you, wish you have a good day!
 
