@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" <a href="https://syliang1999.github.io/CV.pdf">Download</a>
+title: "" 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<a href="https://syliang1999.github.io/CV.pdf">Download (as March, 2024)</a>
+======
 
 Education 
 ======
