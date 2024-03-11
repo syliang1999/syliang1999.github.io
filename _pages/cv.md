@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV <a href="https://syliang1999.github.io/CV.pdf">Download</a>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education <a href="https://syliang1999.github.io/CV.pdf">Download</a>
 ======
 * Honorary Graduate, Qian Xuesen College, Xi'an Jiaotong University, 2022
 * B.E. in Electrical Engineering & Automation (XJTU Academic Elite Program), Xi'an Jiaotong University, 2022
