@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV <a href="syliang1999.github.io/CV.pdf">Download</a>"
+title: "CV <a href="https://syliang1999.github.io/CV.pdf">Download</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
