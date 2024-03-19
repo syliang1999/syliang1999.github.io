@@ -18,7 +18,7 @@ I am currently a Ph.D student co-supervised by <a href="https://tsungyiho.github
 
 Please feel free to contact me via E-mail if you have any questions or suggestions, I will try the best to reply timely.
 
-It's really nice to meet you, wish you have a good day!
+It's really nice to meet you, wish you have a lovely day!
 
 
 
