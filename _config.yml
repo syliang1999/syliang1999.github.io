@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Excelsior."
 title_separator          : "-"
-name                     : &name "Siyuan Liang (梁思远)"
+name                     : &name "Siyuan Liang"
 description              : &description "Ph.D student working on EDA"
 url                      : https://syliang1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
