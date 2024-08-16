@@ -23,7 +23,7 @@ Experiences
 * Technical University of Munich, Visiting Doctoral Candidate, Aug 2024-Feb 2025
   * Supervisor: <a href="https://www.ce.cit.tum.de/eda/personen/ulf-schlichtmann/">Prof. Dr.-Ing. Ulf Schlichtmann</a>, Project: Design automation tools for microfluidic biochips
 * Santa Clara University, Visiting Scholar, Jun 2024-Jul 2024
-  * Supervisor: <a href="https://www.scu.edu/engineering/faculty/araci-emre/">Prof. Ismail Emre Araci</a>,Project: Demo fabrication of LaMUX, test module, and new droplet
+  * Supervisor: <a href="https://www.scu.edu/engineering/faculty/araci-emre/">Prof. Ismail Emre Araci</a>, Project: Demo fabrication of LaMUX, test module, and new droplet
 * Xi'an Action Electronics Co., Ltd, Assistant Software Engineer, Jul 2021-Aug 2021
   * Duties included: Developing power control simulation software for PV arrays
 * Loten Semiconductor Co., Ltd, Assistant Hardware Engineer, Jun 2019-Aug 2019
