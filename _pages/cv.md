@@ -18,17 +18,17 @@ Education
 * B.E. in Electrical Engineering & Automation (XJTU Academic Elite Program), Xi'an Jiaotong University, 2022
 * Ph.D in Computer Engineering, The Chinese University of Hong Kong, 2026 (expected)
 
-Work experience
+Experiences
 ======
-* Summer 2019: Assistant Hardware Engineer
-  * Loten Semiconductor Co., Ltd.
-  * Duties included: Testing and calibrating samples, managing laboratory samples, arranging cargo delivery
-  * Supervisor: Yuan Gao
-
-* Summer 2021: Assistant Software Engineer
-  * Xi'an Action Electronics Co., Ltd
+* Technical University of Munich, Visiting Doctoral Candidate, Aug 2024-Feb 2025
+  * Project: Design automation tools for microfluidic biochips
+* Santa Clara University, Visiting Scholar, Jun 2024-Jul 2024
+  * Project: Demo fabrication of LaMUX, test module, and new droplet
+* Xi'an Action Electronics Co., Ltd, Assistant Software Engineer, Jul 2021-Aug 2021
   * Duties included: Developing power control simulation software for PV arrays
-  * Supervisor: Xiaoqing Bai 
+* Loten Semiconductor Co., Ltd, Assistant Hardware Engineer, Jun 2019-Aug 2019
+  * Duties included: Testing and calibrating samples, managing laboratory samples, arranging cargo delivery
+
   
 Skills
 ======
