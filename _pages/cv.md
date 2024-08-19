@@ -32,12 +32,12 @@ Experiences
   
 Skills
 ======
-* Coding (Python, C, Lua)
+* Programming (Python, C, Lua)
 * MCU Development (FPGA, C51, Arduino, Node MCU)
 * PCB Design (Altium Designer)
 * Engineering Software (MATLAB, Simulink, ANSYS, LTspice, Feko, AutoCAD)
 * Office Software (LaTEX, Markdown, Word, Excel, Powerpoint, Visio)
-* Miscellaneous (Kart Racing, Chinese Traditional Archery, Rowing, Tennis, Basketball, Swimming, Guitar, Video Clip, Photography, ...)
+* Miscellaneous (Kart Racing, Traditional Chinese Archery, Rowing, Tennis, Basketball, Swimming, Guitar, Video Clip, Photography, ...)
 
 Publications
 ======
