@@ -15,7 +15,7 @@ redirect_from:
 Education 
 ======
 * Honorary Graduate, Qian Xuesen College, Xi'an Jiaotong University, 2022
-* B.E. in Electrical Engineering & Automation (XJTU Academic Elite Program), Xi'an Jiaotong University, 2022
+* B.E. in Electrical Engineering & Automation (Elite Class), Xi'an Jiaotong University, 2022
 * Ph.D in Computer Engineering, The Chinese University of Hong Kong, 2026 (expected)
 
 Experiences
