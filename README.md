@@ -6,3 +6,4 @@
 ### Update Teaching -> ./_teaching
 ### Update CV -> ./_pages/cv.md
 ### Update links -> ./_config.yml
+### Update columns -> ./_data/navigation.yml
