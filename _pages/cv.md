@@ -18,6 +18,15 @@ Education
 * B.E. in Electrical Engineering & Automation (Elite Class), Xi'an Jiaotong University, 2022
 * Ph.D. in Computer Engineering, The Chinese University of Hong Kong, 2026 (expected)
 
+Skills
+======
+* Programming (Python, C, Lua)
+* MCU Development (FPGA, C51, Arduino, Node MCU)
+* PCB Design (Altium Designer)
+* Engineering Software (MATLAB, Simulink, ANSYS, LTspice, Feko, AutoCAD)
+* Office Software (LaTEX, Markdown, Word, Excel, Powerpoint, Visio)
+* Miscellaneous (Kart Racing, Traditional Chinese Archery, Rowing, Tennis, Basketball, Swimming, Guitar, Video Clip, Photography, ...)
+
 Experiences
 ======
 * Technical University of Munich, Visiting Doctoral Candidate, Aug 2024-Feb 2025
@@ -28,17 +37,7 @@ Experiences
   * Duties included: Developing power control simulation software for PV arrays
 * Loten Semiconductor Co., Ltd, Assistant Hardware Engineer, Jun 2019-Aug 2019
   * Duties included: Testing and calibrating samples, managing laboratory samples, arranging cargo delivery
-
   
-Skills
-======
-* Programming (Python, C, Lua)
-* MCU Development (FPGA, C51, Arduino, Node MCU)
-* PCB Design (Altium Designer)
-* Engineering Software (MATLAB, Simulink, ANSYS, LTspice, Feko, AutoCAD)
-* Office Software (LaTEX, Markdown, Word, Excel, Powerpoint, Visio)
-* Miscellaneous (Kart Racing, Traditional Chinese Archery, Rowing, Tennis, Basketball, Swimming, Guitar, Video Clip, Photography, ...)
-
 Publications
 ======
   <ol reversed>{% for post in site.publications reversed %}
@@ -54,7 +53,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer (ICCAD'24, TCAD).
+* Reviewer (ICCAD'24, ISEDA' 25, IEEE TCAD, Elsevier Integration).
 * More than 300 hours of social volunteer service.
 * CEO of Rhea Tech in technology entrepreneurship competitions during 2020-2022.
 * Monitor of class Electrical 81 (Elite Class) during 2018-2022.
