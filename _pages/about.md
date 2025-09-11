@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Siyuan Liang, you can also call me Kyrie.
 
-I am currently a 3rd year Ph.D candidate co-supervised by <a href="https://tsungyiho.github.io">Prof. Tsung-Yi Ho</a> and <a href="https://www.ce.cit.tum.de/en/eda/persons/tsun-ming-tseng">Dr.-Ing. Tsun-Ming Tseng</a> (from TUM). My study interests include Design Automation, Optimization, Machine Learning, Microfluidics, and Advanced Packaging. You can find more details about me in the corresponding News, Publications, Teaching, and CV pages.
+I am currently a 4th year Ph.D candidate co-supervised by <a href="https://tsungyiho.github.io">Prof. Tsung-Yi Ho</a> and <a href="https://www.ce.cit.tum.de/en/eda/persons/tsun-ming-tseng">Dr.-Ing. Tsun-Ming Tseng</a> (from TUM). My study interests include Design Automation, Optimization, Machine Learning, Microfluidics, and Advanced Packaging. You can find more details about me in the corresponding News, Publications, Teaching, and CV pages.
 
 I joined Xi'an Jiaotong University in 2018, majoring in Electrical Engineering and Automation (Elite Class), and was awarded the Yuejie Academic Elite Scholarship of 240,000 CNY. I got my bacholar's degree and became an honorary graduate of Qian Xuesen Honors College in 2022. In the same year, I was admitted to The Chinese University of Hong Kong and started my Ph.D career in the department of Computer Science and Engineering.
 
