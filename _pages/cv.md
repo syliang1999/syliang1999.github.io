@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <a href="https://syliang1999.github.io/CV.pdf">Download (as of July, 2025)</a>
-
-
+======
 
 Education 
 ======
