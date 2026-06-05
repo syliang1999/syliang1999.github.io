@@ -52,7 +52,8 @@ Skills
 
 Service and leadership
 ======
-* Reviewer (ICCAD'24, ISEDA' 25, AAAI' 26, IEEE TCAD, Elsevier Integration).
+* TPC (ICCAD)
+* Reviewer (ICCAD, ISEDA, NeurIPS, AAAI, FPL, IEEE TCAD, Elsevier Integration, IEEE SMCA).
 * More than 300 hours of social volunteer service.
 * CEO of Rhea Tech in technology entrepreneurship competitions during 2020-2022.
 * Monitor of class Electrical 81 (Elite Class) during 2018-2022.
