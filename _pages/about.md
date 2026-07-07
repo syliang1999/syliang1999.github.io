@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![CUHK Cover](/images/cuhk_cover.jpg)
+
 My name is Siyuan Liang, you can also call me Kyrie.
 
 I am currently a postdoctoral research fellow supervised by <a href="https://tsungyiho.github.io">Prof. Tsung-Yi Ho</a>. My study interests include Design Automation, Optimization, Machine Learning, Microfluidics, and Advanced Packaging. You can find more details about me in the corresponding News, Publications, Teaching, and CV pages.
