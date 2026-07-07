@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![CUHK Cover](/images/cuhk_cover.jpg)
-
 My name is Siyuan Liang, you can also call me Kyrie.
 
 I am currently a postdoctoral research fellow supervised by <a href="https://tsungyiho.github.io">Prof. Tsung-Yi Ho</a>. My study interests include Design Automation, Optimization, Machine Learning, Microfluidics, and Advanced Packaging. You can find more details about me in the corresponding News, Publications, Teaching, and CV pages.
@@ -25,3 +23,5 @@ It's really nice to meet you, wish you a lovely day!
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=3hYg96CqA8tHVFDAUu79fnP_Kxf-pWJg6j4naqdR5S0'></script>
 </body>
+
+![CUHK Cover](/images/cuhk_cover.jpg)
