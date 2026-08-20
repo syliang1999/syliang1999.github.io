@@ -53,8 +53,9 @@ Skills
 Service and leadership
 ======
 * TPC (ICCAD)
-* Reviewer (ICCAD, ISEDA, NeurIPS, AAAI, FPL, IEEE TCAD, Elsevier Integration, IEEE SMCA).
+* Reviewer (ICCAD, ISEDA, NeurIPS, AAAI, FPL, IEEE TCAD, IEEE Design&Test, Elsevier Integration, IEEE SMCA).
 * More than 300 hours of social volunteer service.
+* CTO of &mu;LabsAI entrepreneurship team (CUHK Incubated, CUHK IdeaBoost Funded, HKSTP Ideation Funded, HK 10th Techathon$^+$ Finale), 2025-Now.
 * CEO of Rhea Tech in technology entrepreneurship competitions during 2020-2022.
 * Monitor of class Electrical 81 (Elite Class) during 2018-2022.
 
