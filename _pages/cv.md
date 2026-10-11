@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://syliang1999.github.io/CV.pdf">Download (as of Sep, 2026)</a>
+<a href="https://syliang1999.github.io/CV.pdf">Download (as of Oct, 2026)</a>
 ======
 
 Education 
